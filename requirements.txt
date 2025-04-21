@@ -6,7 +6,7 @@ matplotlib>=3.4.3
 numpy>=1.21.0
 pillow>=8.3.2
 soundfile>=0.10.3
-opencv-python==4.8.0.76
+opencv-python-headless
 scikit-learn>=1.0.0
 streamlit-webrtc==0.47.1
 stripe>=5.4.0
